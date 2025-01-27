@@ -1,6 +1,6 @@
-# Finger Count Recognition
+# Ampire Decision Maker
 
-This repository contains a Python project for finger count recognition using OpenCV.
+This repository contains a Python project for Ampire Decision  recognition using OpenCV.
 
 ## Introduction
 
