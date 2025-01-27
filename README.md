@@ -4,7 +4,7 @@ This repository contains a Python project for Ampire Decision  recognition using
 
 ## Introduction
 
-**Finger Count Recognition** is a computer vision project that uses OpenCV to detect and count the number of fingers shown in front of a camera.  
+**Ampire Decision Maker ** is a computer vision project that uses OpenCV to detect and count the number of fingers shown in front of a camera.  
 This can be useful in various applications such as gesture control, sign language recognition, and interactive systems.
 
 ## Features
