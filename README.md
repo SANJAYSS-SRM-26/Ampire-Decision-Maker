@@ -34,3 +34,4 @@ python recognize.py
 
 - **OpenCV team for their amazing library**
 - **Other contributors and developers who have worked on similar projects**
+.
